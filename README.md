@@ -1,6 +1,6 @@
 ## Hello, AI-world! 👋
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="543">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="333">
 
 Welcome to my GitHub profile! I am an engineer with a higher technical degree, and I am building a career in Data Science to help companies solve analytical and research problems. My main advantage is ability to learn quickly and effectively integrate into new processes. Because I have critical thinking and analytical mind.
 
@@ -17,3 +17,5 @@ I'm currently active looking for a job. So thank you for visiting my profile!
 Here you can find my repos with different projects to figure out my abilities. 
 
 I expect interesting tasks from the employer-company, so the solution can be "felt" and there will be real benefits. 
+
+Pet-projects are below. 
