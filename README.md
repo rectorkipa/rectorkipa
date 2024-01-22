@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I am an engineer with a higher technical degree, and I am building a career in Data Science to help companies solve analytical and research problems. My main advantage is ability to learn quickly and effectively integrate into new processes. Because I have critical thinking and analytical mind.
 
-I can be useful because I can parse information; analyze, process and visualize data; build, train and validate ML/DL/RecSys models, evaluate their effectiveness; apply mathematics, for example, to formulate hypotheses and A/B testing. I work in Python, I know its ML libraries and DL frameworks, SQL, Git.
+I can be useful because I can parse information; analyze, process and visualize data; build, train and validate ML(DL, RecSys) models, evaluate their effectiveness; apply mathematics, for example, to formulate hypotheses and A/B testing. I work in Python, I know its ML libraries and DL frameworks, SQL, Git.
 
 - 🛠️ [Winner of the hackathon "Digital Breakthrough" (Ministry of Economic Development of Russia) - II place.](https://drive.google.com/file/d/1Kn4zOyTtiSCMZC7N_ouJHvVhPa3Y14WO/view?usp=sharing)
 - 🔭 [Studied in GeekBrains on DS](https://drive.google.com/file/d/1dpEcjEZNUquRiueKXrWPVCi-Vf1We9mO/view?usp=sharing)
@@ -17,5 +17,3 @@ I'm currently active looking for a job. So thank you for visiting my profile!
 Here you can find my repos with different projects to figure out my abilities. 
 
 I expect interesting tasks from the employer-company, so the solution can be "felt" and there will be real benefits. 
-
-Pet-projects are below. 
