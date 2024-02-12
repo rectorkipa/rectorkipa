@@ -6,7 +6,10 @@ Welcome to my GitHub profile! I am an engineer with a higher technical degree, a
 
 I can be useful because I can parse information; analyze, process and visualize data; build, train and validate ML(DL, RecSys) models, evaluate their effectiveness; apply mathematics, for example, to formulate hypotheses and A/B testing. I work in Python, I know its ML libraries and DL frameworks, SQL, Git.
 
-- 🛠️ [Winner of the hackathon "Digital Breakthrough" (Ministry of Economic Development of Russia) - II place.](https://drive.google.com/file/d/1Kn4zOyTtiSCMZC7N_ouJHvVhPa3Y14WO/view?usp=sharing)
+1. 🛠️ Project activity: sept 2021 - u.n.
+2. 🛠️ Intelligent Social Systems: jan 2023 - jan 2024. https://iss.digital/ 
+
+- 🎰 [Winner of the hackathon "Digital Breakthrough" (Ministry of Economic Development of Russia) - II place.](https://drive.google.com/file/d/1Kn4zOyTtiSCMZC7N_ouJHvVhPa3Y14WO/view?usp=sharing)
 - 🔭 [Studied in GeekBrains on DS](https://drive.google.com/file/d/1dpEcjEZNUquRiueKXrWPVCi-Vf1We9mO/view?usp=sharing)
 - 🌱 [Studied in Tomsk State Univercity (School 21 by SBERBANK) on DS](https://drive.google.com/file/d/1C-BdL2hZ2HmyS0oYrQNkFQh0cOkrh_Dq/view?usp=sharing)
 - 🤖 [Studied in Stepik on different DS-cources](https://drive.google.com/file/d/1MR0RmAXWbhoZAKBNtJOvt1lm6RX7iZAT/view?usp=sharing)
